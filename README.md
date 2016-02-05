@@ -10,6 +10,9 @@ usage :  ./calc base operators size_read
 # Exemples
 
 echo "3+6" | ./calc 0123456789 "()+-*/%" 3
+
 echo "3v6" | ./calc 0123456789 "{}vwxyz" 3
+
 echo "-(12-(4*32))" | ./calc 0123456789 "()+-*/%" 12
+
 echo "-(e@-(;*!@))" | ./calc "~^@!;ie& ]" "()+-*/%" 13
