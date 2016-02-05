@@ -1,1 +1,1 @@
-# EPITECH---Bistromathique
+# EPITECH - Bistromathique
